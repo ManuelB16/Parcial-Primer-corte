@@ -1,0 +1,6 @@
+main\java\edu\cvds\primercorte\stock\agent\AgentWarning.class
+main\java\edu\cvds\primercorte\stock\agent\AgentLog.class
+main\java\edu\cvds\primercorte\stock\model\Product.class
+edu\cvds\primercorte\stock\stocker\StockMonitor.class
+main\java\edu\cvds\primercorte\stock\repository\ProductRepository.class
+main\java\edu\cvds\primercorte\stock\service\ProductService.class
